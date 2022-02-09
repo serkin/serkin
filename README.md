@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @serkin
 - 👀 I’m interested in badminton
-- 🌱 I’m currently learning Spark
+- 🌱 I’m currently learning DS
 - 💞️ I’m looking to collaborate on sleeping
 - 📫 How to reach me easy
 
